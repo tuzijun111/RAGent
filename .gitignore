@@ -1,2 +1,12 @@
+# Virtual environments
+
 hugenv/
+.env/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Misc
+.DS_Store
 
